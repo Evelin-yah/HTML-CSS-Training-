@@ -1,0 +1,9 @@
+h1 {
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bol;
+color: khaki;
+}
+#banner {
+background-image: src('./pattern.png') ;
+}
